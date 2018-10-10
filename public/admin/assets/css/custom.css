@@ -1,0 +1,24 @@
+.pad_remove{
+	padding: 0 !important;
+}
+
+.md-bg-green {
+	background-color: #7cb342 !important;
+}
+
+.dataTables_wrapper .uk-table tfoot .md-input-wrapper .md-input {
+	width: 100%;
+	height: auto;
+	margin: 0;
+	padding: 4px;
+	line-height: 24px;
+	border: 1px solid rgba(0,0,0,.12);
+	color: #212121;
+	box-sizing: border-box;
+	-webkit-transition: height .1s ease;
+	border-radius: 0;
+	-webkit-appearance: none;
+}
+.report_table td{
+padding: 2px 0px;
+}
